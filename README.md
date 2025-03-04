@@ -1,1 +1,1 @@
-Hello This is the Gitbash demo
+Hello this is the gitbash demo
